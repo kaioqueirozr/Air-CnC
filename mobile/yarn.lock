@@ -2117,7 +2117,7 @@ expo-web-browser@~6.0.0:
   resolved "https://registry.yarnpkg.com/expo-web-browser/-/expo-web-browser-6.0.0.tgz#63a59d4c02cd7ba47faa6a2eb04decb1a1ab2a32"
   integrity sha512-7XkFPd4PRlVP6FscTnn78c0tY6+yLzb2Eai/ed+l+LB+hZWuhyY3ONzYM7/IKAiPmfhZr4Qs80vIa7iiavti8A==
 
-expo@^34.0.1:
+expo@^34.0.4:
   version "34.0.4"
   resolved "https://registry.yarnpkg.com/expo/-/expo-34.0.4.tgz#af6ef0da40c98981b5f3323c86fd815dfa417fff"
   integrity sha512-sZQQoZnN5ASrkSA4qSsk7HPBewHB6b3k9VPZvchT0FBZ1fP5vpmzfIbVOqOLRXHf2VdjNnQVme617TnpPlruJg==
@@ -4095,9 +4095,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@^1.7.0:
   version "1.7.0"
